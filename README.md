@@ -27,12 +27,11 @@ Here are some ideas to get you started:
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucaskyze&show_icons=true&theme=vision-friendly-dark" alt="lucaskyze's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskyze&layout=compact&theme=vision-friendly-dark" alt="lucaskyze's most languages"/>
 </p>
 
 <br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 📱 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/lucaskyze" target="_blank">
