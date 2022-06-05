@@ -1,6 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Kyze</h1>
-
-<p>I love programming and LOVE to learn something new.</p>
+<p>Hi! I'm Lucas - A front-end developer and lover of learning new things.</p>
 
 ## 🛠 &nbsp;Tech Stack
 
