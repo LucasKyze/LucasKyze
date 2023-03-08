@@ -11,5 +11,9 @@ I'm a Software Engineer, currently work with Web and Mobile. I'm studying web de
 
 🧰 The _icing on the cake_ - TypeScript
 
+#### 💬 Find me elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lbfrancisco/)](https://www.linkedin.com/in/lbfrancisco/) 
+[![Gmail Badge](https://img.shields.io/badge/-lucasbarroso318@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasbarroso318@gmail.com)](mailto:lucasbarroso318@gmail.com)
 
 > “Do one thing every day that scares you.”</i>
